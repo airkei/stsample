@@ -6,7 +6,3 @@ these are just for embedded engineering seminor(section initialize, main loop, i
 
 ## Features
 Just blink LED in main loop and use timer interrupt.
-
-## License
-
-[MIT](http://b4b4r07.mit-license.org)
